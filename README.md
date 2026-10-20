@@ -1,1 +1,9 @@
-# CS-255-12483-System-Analysis-and-Design
+The DriverPass project involved designing a system for a driver training company that wanted to help customers prepare for their driving tests. The client needed a system that provided online practice tests and training materials while allowing customers to schedule driving lessons. The system also needed to support staff in managing reservations, instructors, and vehicles.
+
+I think I did particularly well at organizing the client’s requirements and translating them into UML diagrams. My activity diagram showed the steps involved in booking a lesson, including checking the customer’s available package hours and confirming instructor and vehicle availability. Breaking the process into individual steps helped me connect the requirements to the system’s behavior.
+
+If I could revise one part of my work, I would improve the clarity and consistency of my diagrams. I would review the labels, decision points, and alternative paths to make sure they were easy to follow and matched the written requirements. I would also make sure each diagram provided enough detail for a developer to understand the intended process.
+
+I interpreted the user’s needs by reviewing the DriverPass interview transcript and identifying what customers, staff, and administrators needed to accomplish. I incorporated those needs through features such as lesson scheduling, availability checks, and different access permissions. Considering user needs is important because a system must solve the client’s problems and be practical for the people using it.
+
+My approach to designing software starts with understanding the problem and gathering requirements before deciding how the system should work. I then use diagrams to organize workflows, interactions, and relationships. In future projects, I would continue using interviews, use cases, and UML diagrams while reviewing the design with users throughout the process. This would help identify missing requirements and improve the design before development begins.
